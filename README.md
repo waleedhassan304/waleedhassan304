@@ -28,7 +28,7 @@ Before this, I worked extensively in **data science, machine learning, and Djang
 - Delivered production-grade **Django REST APIs** with tenant-aware auth, OpenAPI docs, rate limiting, PostgreSQL, and PgBouncer
 
 ### AI & Applications Engineer — Wertec
-**June 2026 – Present** · Lahore, Pakistan
+**Remote**
 
 - Architected a **multi-tenant Django 5 and DRF platform** across 16 domain apps, covering identity, RBAC, subscriptions, analytics, AI, notifications, and scheduler modules
 - Designed secured auth workflows with **JWT**, refresh-token revocation, **TOTP MFA**, Google OAuth, and brute-force protection
