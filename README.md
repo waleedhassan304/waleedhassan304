@@ -16,7 +16,7 @@ Before this, I worked extensively in **data science, machine learning, and Djang
 ## Experience
 
 ### AI & Platform Engineer — Electus Global Education Co.
-**May 2025 – Present** · Lahore, Pakistan
+**May 2025 – Present** · Tampa, Florida, USA (Remote)
 
 - Architected a complete **multi-tenant RAG platform** for PDFs, DOCX files, and video transcripts using semantic chunking, embeddings, and tenant-scoped vector indexing
 - Built a **4-stage LLM safety guardrail pipeline** using Gemini on Vertex AI to enforce content filtering, query normalization, knowledge-scope checks, and child-safety controls
